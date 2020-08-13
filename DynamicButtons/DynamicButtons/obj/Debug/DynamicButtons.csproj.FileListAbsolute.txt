@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\bin\Debug\DynamicButtons.exe.config
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\bin\Debug\DynamicButtons.exe
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\bin\Debug\DynamicButtons.pdb
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.Form1.resources
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.exe
+C:\Users\Administrator\Desktop\DynamicButtons\DynamicButtons\obj\Debug\DynamicButtons.pdb
