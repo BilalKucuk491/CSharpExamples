@@ -68,7 +68,17 @@ namespace DynamicButtons
         }
 
         int masa_kapasite = 33;
-       
+        public void infoProgramlama(int x, int y,int j)
+        {
+            Button btn = new Button();
+            btn.Location = new Point(x, y);
+            btn.Name = "btnMasa" + j.ToString();
+            btn.Text = "M" + j.ToString();
+            btn.Size = new Size(100, 100);
+            btn.BackColor = Color.White;
+            btn.Font = new Font("Segoe UI", 20);
+            this.Controls.Add(btn);
+        }
         private void button1_Click(object sender, EventArgs e)
         {
             if (masa_kapasite <= 33)
@@ -78,45 +88,25 @@ namespace DynamicButtons
                 {
                     if (j == 1)
                     {
-                        Button btn = new Button();
-                        btn.Location = new Point(x, y);
-                        btn.Name = "btnMasa" + j.ToString();
-                        btn.Text = "M" + j.ToString();
-                        btn.Size = new Size(100, 100);
-                        btn.BackColor = Color.White;
-                        btn.Font = new Font("Segoe UI", 20);
-                        this.Controls.Add(btn);
+                        infoProgramlama(x,y,j);
                     }
                     else if (j <= 32 && j > 1 && j != 9 && j != 17 && j != 25)
                     {
                         x = x + 104;
-                        Button btn = new Button();
-                        btn.Location = new Point(x, y);
-                        btn.Name = "btnMasa" + j.ToString();
-                        btn.Text = "M" + j.ToString();
-                        btn.Size = new Size(100, 100);
-                        btn.BackColor = Color.White;
-                        btn.Font = new Font("Segoe UI", 20);
-                        this.Controls.Add(btn);
+                        infoProgramlama(x, y,j);
                     }
                     else
                     {
                         x = 22;
                         y = y + 106;
-                        Button btn = new Button();
-                        btn.Location = new Point(x, y);
-                        btn.Name = "btnMasa" + j.ToString();
-                        btn.Text = "M" + j.ToString();
-                        btn.Size = new Size(100, 100);
-                        btn.BackColor = Color.White;
-                        btn.Font = new Font("Segoe UI", 20);
-                        this.Controls.Add(btn);
+                        infoProgramlama(x, y,j);
                     }
                 }
             }
             else
             {
                 MessageBox.Show("Hata masa kapasitesini aştınız.");
+                masa_kapasite = 33;
             }
         }
 
