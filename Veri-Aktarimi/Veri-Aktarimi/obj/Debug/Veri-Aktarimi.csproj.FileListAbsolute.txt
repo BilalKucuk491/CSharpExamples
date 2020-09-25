@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\bin\Debug\Veri-Aktarimi.exe.config
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\bin\Debug\Veri-Aktarimi.exe
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\bin\Debug\Veri-Aktarimi.pdb
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri-Aktarimi.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri_Aktarimi.Form1.resources
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri_Aktarimi.Form2.resources
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri_Aktarimi.Properties.Resources.resources
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri-Aktarimi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri-Aktarimi.exe
+C:\Users\user\Desktop\Veri-Aktarimi\Veri-Aktarimi\obj\Debug\Veri-Aktarimi.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\bin\Debug\TurkceSozluk.exe.config
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\bin\Debug\TurkceSozluk.exe
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\bin\Debug\TurkceSozluk.pdb
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.csprojAssemblyReference.cache
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.Form1.resources
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.Properties.Resources.resources
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.exe
+C:\Users\user\Desktop\TurkceSozluk\TurkceSozluk\obj\Debug\TurkceSozluk.pdb
