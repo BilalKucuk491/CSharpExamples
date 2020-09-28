@@ -1,1 +1,1 @@
-This is project name "three color game".
+This is game and game name "three color game".
