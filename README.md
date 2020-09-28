@@ -6,7 +6,4 @@ Connection datebase for simple datebase Acces. This is project used dark thema d
 
 ---Thank You for Star --- 
 
-sssd
-dwd
-weert
-sdw
+
