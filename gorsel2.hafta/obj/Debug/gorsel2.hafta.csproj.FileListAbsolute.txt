@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\bin\Debug\gorsel2.hafta.exe.config
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\bin\Debug\gorsel2.hafta.exe
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\bin\Debug\gorsel2.hafta.pdb
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.Form1.resources
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.exe
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\gorsel2.hafta\gorsel2.hafta\obj\Debug\gorsel2.hafta.pdb
