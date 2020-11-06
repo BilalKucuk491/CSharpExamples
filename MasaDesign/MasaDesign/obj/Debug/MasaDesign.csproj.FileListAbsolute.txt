@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\bin\Debug\MasaDesign.exe.config
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\bin\Debug\MasaDesign.exe
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\bin\Debug\MasaDesign.pdb
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.Form1.resources
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.exe
+C:\Users\Administrator\Desktop\MasaDesign\MasaDesign\obj\Debug\MasaDesign.pdb
