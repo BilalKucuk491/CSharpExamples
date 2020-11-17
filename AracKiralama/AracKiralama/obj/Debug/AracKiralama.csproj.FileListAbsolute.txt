@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe.config
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\bin\Debug\AracKiralama.exe
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\bin\Debug\AracKiralama.pdb
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.Properties.Resources.resources
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.exe
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.pdb
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmAnaMenu.resources
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmAraclar.resources
+C:\Users\Administrator\Desktop\AslaSilme\Dersler\Gorsel Programlama 2\AracKiralama\AracKiralama\obj\Debug\AracKiralama.frmMusteriler.resources
